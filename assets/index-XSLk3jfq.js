@@ -9621,7 +9621,7 @@ function Zu(t, n, e) {
 const Gt = 50;
 function pe(t = document.body) {
   const n = t.querySelector("#postMain");
-  if (!n) return console.error("cant find main");
+  if (!n) return;
   const e = n.querySelector(`.${G.godown}`),
     o = n.querySelector(`.${G.showmore}`);
   if (!e || !o) return;
@@ -12025,7 +12025,7 @@ const No = H((t) => () => {
                     "p",
                     {
                       children:
-                        "RiXa é uma plataform feita em cima de uma framework própria, com o uso da AI generativa da Google, a Gemini, utiliza destes recursos para gerar repostas aos seus posts, inspirado na plataforma X ou também conhecido como Twitter.",
+                        "RiXa é uma plataforma feita em cima de uma framework própria, com o uso da AI generativa da Google, a Gemini, utiliza destes recursos para gerar repostas aos seus posts, inspirado na plataforma X ou também conhecido como Twitter.",
                     },
                     void 0,
                     !1,
@@ -12067,7 +12067,7 @@ const No = H((t) => () => {
                     "p",
                     {
                       children:
-                        "RiXa possui o foco em apenas entretenimento, possibilitando posts absurdos com respostas absurdas. Podendo assim gerar humor ou entreterimento.",
+                        "RiXa possui o foco em apenas entretenimento, possibilitando posts absurdos com respostas absurdas. Podendo assim gerar humor ou entretenimento.",
                     },
                     void 0,
                     !1,
@@ -12151,7 +12151,7 @@ const No = H((t) => () => {
                     "p",
                     {
                       children:
-                        "Quando o usuário faz um post, ele é enviando para o Gemini interpretar e gerar as repostas baseados nos parâmetros estabelecidos nas Opções. O Gemini irá tentar soar como respostas reais e de fan-bases raivosas.",
+                        "Quando o usuário faz um post, ele é enviando para o Gemini interpretar e gerar as respostas baseados nos parâmetros estabelecidos nas Opções. O Gemini irá tentar soar como respostas reais e de fan-bases raivosas.",
                     },
                     void 0,
                     !1,
@@ -12277,7 +12277,7 @@ const No = H((t) => () => {
                     "p",
                     {
                       children:
-                        "Surgiu apartir de como as redes socias hoje em dia são altamente critícas e com opniões adversas sobre todos os assuntos, podendo até mesmo ser cômico em algumas discussões.",
+                        "Surgiu a partir de como as redes socias hoje em dia são altamente critícas e com opiniões adversas sobre todos os assuntos, podendo até mesmo ser cômico em algumas discussões.",
                     },
                     void 0,
                     !1,
