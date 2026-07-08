@@ -12277,7 +12277,7 @@ const No = H((t) => () => {
                     "p",
                     {
                       children:
-                        "Surgiu a partir de como as redes socias hoje em dia são altamente critícas e com opiniões adversas sobre todos os assuntos, podendo até mesmo ser cômico em algumas discussões.",
+                        "Surgiu a partir de como as redes sociais hoje em dia são altamente critícas e com opiniões adversas sobre todos os assuntos, podendo até mesmo ser cômico em algumas discussões.",
                     },
                     void 0,
                     !1,
