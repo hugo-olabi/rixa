@@ -1,5 +1,7 @@
 # RiXa
 
+Acesse o site aqui [Rixa](https://hugo-olabi.github.io/rixa/).
+
 ## O Que é o RiXa?
 
 RiXa é uma plataforma feita em cima de uma framework própria, com o uso da AI generativa da Google, a Gemini. Utiliza destes recursos para gerar respostas aos seus posts, inspirado na plataforma X (antigo Twitter).
